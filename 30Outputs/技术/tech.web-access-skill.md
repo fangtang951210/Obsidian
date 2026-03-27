@@ -1,9 +1,9 @@
 ---
-title: 技术 · 让 Claude 控制浏览器
+title: 让 Claude 控制浏览器
 date: 2026-03-27
 ---
 
-# 技术 · 让 Claude 控制浏览器
+# 让 Claude 控制浏览器
 
 > [!abstract] 一句话概括
 > 给 Claude Code 装上完整的联网和浏览器自动化能力，让它能像真人一样操作浏览器。
