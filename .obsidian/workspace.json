@@ -180,8 +180,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e1dbfaf0e6f9e598",
+  "active": "1fd8a663ddf8dcbc",
   "lastOpenFiles": [
+    "05Temp",
     "00Inbox/联网skill.md",
     "CLI测试笔记.md",
     "obsidian-skills-main/skills/obsidian-cli/SKILL.md",
@@ -216,7 +217,6 @@
     "000置顶消息【禁止编辑】/03claude code相关【重要】/README.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/使用指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking数据库维护指南.md",
-    "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking-Agent接入配置指南.md",
-    "000置顶消息【禁止编辑】/01服务器相关【重要】/服务器配置说明.md"
+    "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking-Agent接入配置指南.md"
   ]
 }
