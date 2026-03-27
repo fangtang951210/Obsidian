@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /e/000个人知识库 && git add -A && git diff --cached --quiet || (git commit -m \"📦 自动同步\" && git push)",
+            "timeout": 30,
+            "statusMessage": "同步到 GitHub..."
+          }
+        ]
+      }
+    ]
+  }
+}
