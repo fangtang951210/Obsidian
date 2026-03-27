@@ -1,10 +1,6 @@
 ---
 title: web-access Skill 使用指南
 date: 2026-03-27
-tags:
-  - Claude Code
-  - 自动化
-  - 浏览器
 ---
 
 # web-access Skill 使用指南
