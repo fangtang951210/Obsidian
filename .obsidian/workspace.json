@@ -182,6 +182,10 @@
   },
   "active": "1fd8a663ddf8dcbc",
   "lastOpenFiles": [
+    "obsidian-skills-main/skills/obsidian-cli/SKILL.md",
+    "obsidian-skills-main/skills/obsidian-cli",
+    "obsidian-skills-main/skills",
+    "obsidian-skills-main",
     "obsidian-skills-main/skills/obsidian-markdown/references/PROPERTIES.md",
     "obsidian-skills-main/skills/obsidian-markdown/references/EMBEDS.md",
     "obsidian-skills-main/skills/obsidian-markdown/references/CALLOUTS.md",
@@ -191,18 +195,14 @@
     "obsidian-skills-main/skills/json-canvas/references/EXAMPLES.md",
     "obsidian-skills-main/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "obsidian-skills-main/skills/defuddle/SKILL.md",
-    "obsidian-skills-main/skills/obsidian-cli/SKILL.md",
     "obsidian-skills-main/skills/json-canvas/SKILL.md",
     "obsidian-skills-main/skills/json-canvas/references",
     "obsidian-skills-main/skills/obsidian-bases/references",
     "obsidian-skills-main/skills/obsidian-bases/SKILL.md",
     "obsidian-skills-main/skills/defuddle",
     "obsidian-skills-main/skills/json-canvas",
-    "obsidian-skills-main/skills/obsidian-cli",
     "obsidian-skills-main/skills/obsidian-bases",
-    "obsidian-skills-main/skills",
     "obsidian-skills-main/README.md",
-    "obsidian-skills-main/LICENSE",
     "000置顶消息【禁止编辑】/004密钥密码.md",
     "00Inbox/联网skill.md",
     "000置顶消息【禁止编辑】/github-recovery-codes.md",
@@ -216,7 +216,6 @@
     "000置顶消息【禁止编辑】/03claude code相关【重要】/使用指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking数据库维护指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking-Agent接入配置指南.md",
-    "000置顶消息【禁止编辑】/01服务器相关【重要】/服务器配置说明.md",
-    "000置顶消息【禁止编辑】/01服务器相关【重要】/⚠️重要说明.md"
+    "000置顶消息【禁止编辑】/01服务器相关【重要】/服务器配置说明.md"
   ]
 }
