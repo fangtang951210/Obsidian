@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "00Inbox/联网skill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "联网skill"
             }
           }
         ]
@@ -182,18 +182,31 @@
   },
   "active": "1fd8a663ddf8dcbc",
   "lastOpenFiles": [
-    "obsidian-skills-main.zip",
+    "obsidian-skills-main/skills/obsidian-markdown/references/PROPERTIES.md",
+    "obsidian-skills-main/skills/obsidian-markdown/references/EMBEDS.md",
+    "obsidian-skills-main/skills/obsidian-markdown/references/CALLOUTS.md",
+    "obsidian-skills-main/skills/obsidian-markdown/references",
+    "obsidian-skills-main/skills/obsidian-markdown/SKILL.md",
+    "obsidian-skills-main/skills/obsidian-markdown",
+    "obsidian-skills-main/skills/json-canvas/references/EXAMPLES.md",
+    "obsidian-skills-main/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "obsidian-skills-main/skills/defuddle/SKILL.md",
+    "obsidian-skills-main/skills/obsidian-cli/SKILL.md",
+    "obsidian-skills-main/skills/json-canvas/SKILL.md",
+    "obsidian-skills-main/skills/json-canvas/references",
+    "obsidian-skills-main/skills/obsidian-bases/references",
+    "obsidian-skills-main/skills/obsidian-bases/SKILL.md",
+    "obsidian-skills-main/skills/defuddle",
+    "obsidian-skills-main/skills/json-canvas",
+    "obsidian-skills-main/skills/obsidian-cli",
+    "obsidian-skills-main/skills/obsidian-bases",
+    "obsidian-skills-main/skills",
+    "obsidian-skills-main/README.md",
+    "obsidian-skills-main/LICENSE",
+    "000置顶消息【禁止编辑】/004密钥密码.md",
+    "00Inbox/联网skill.md",
+    "000置顶消息【禁止编辑】/github-recovery-codes.md",
     "CLAUDE.md",
-    "CLAUDE.md.tmp.16628.1774582777971",
-    "30Outputs/项目",
-    "30Outputs/工作",
-    "30Outputs/生活",
-    "30Outputs/读书",
-    "30Outputs/技术",
-    "30Outputs",
-    "20Notes",
-    "10Learning",
-    "00Inbox",
     "000置顶消息【禁止编辑】/02系统相关【重要】/002WSL2系统重安装指南.md",
     "000置顶消息【禁止编辑】/02系统相关【重要】/001windows重安装指南.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/项目模板/CLAUDE.md",
@@ -204,8 +217,6 @@
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking数据库维护指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking-Agent接入配置指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/服务器配置说明.md",
-    "000置顶消息【禁止编辑】/01服务器相关【重要】/⚠️重要说明.md",
-    "000置顶消息【禁止编辑】/BOT账号管理.md",
-    "000置顶消息【禁止编辑】/004密钥密码.md"
+    "000置顶消息【禁止编辑】/01服务器相关【重要】/⚠️重要说明.md"
   ]
 }

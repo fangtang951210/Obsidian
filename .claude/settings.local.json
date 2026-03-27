@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip -l obsidian-skills-main.zip)",
+      "Bash(unzip -o obsidian-skills-main.zip -d /tmp/)",
+      "Bash(unzip -o obsidian-skills-main.zip)"
+    ]
+  }
+}
