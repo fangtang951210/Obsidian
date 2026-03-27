@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000置顶消息【禁止编辑】/02系统相关【重要】/001windows重安装指南.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001windows重安装指南"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -183,9 +183,11 @@
   "active": "e1dbfaf0e6f9e598",
   "lastOpenFiles": [
     "20Notes/tech.web-access-skill.md",
+    "20Notes/sedBcUHbG",
+    "Claude Code.md",
+    "000置顶消息【禁止编辑】/02系统相关【重要】/001windows重安装指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking-Agent接入配置指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/⚠️重要说明.md",
-    "000置顶消息【禁止编辑】/02系统相关【重要】/001windows重安装指南.md",
     "000置顶消息【禁止编辑】/02系统相关【重要】/002WSL2系统重安装指南.md",
     "10Learning/联网skill.md",
     "CLI测试笔记.md",
@@ -208,15 +210,12 @@
     "obsidian-skills-main/skills/obsidian-bases/references",
     "obsidian-skills-main/skills/obsidian-bases/SKILL.md",
     "obsidian-skills-main/skills/defuddle",
-    "obsidian-skills-main/skills/json-canvas",
     "obsidian-skills-main/README.md",
     "000置顶消息【禁止编辑】/004密钥密码.md",
     "000置顶消息【禁止编辑】/github-recovery-codes.md",
     "CLAUDE.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/项目模板/CLAUDE.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/FRP远程claude服务.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/README.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/使用指南.md"
+    "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md"
   ]
 }

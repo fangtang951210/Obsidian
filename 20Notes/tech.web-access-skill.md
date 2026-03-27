@@ -126,9 +126,5 @@ document.execCommand('insertText', false, content);
 
 ---
 
-## 相关链接
-
-- [[Claude Code]]
-- [[Obsidian CLI]]
 
 #已完成
