@@ -121,6 +121,27 @@
 
 ---
 
+## Obsidian CLI 规则（重要）
+
+**必须使用 Obsidian CLI 操作笔记**，以保护双链结构。
+
+**所有笔记操作（创建、读取、修改、移动）都必须通过 `obsidian` 命令执行。**
+
+**如果 CLI 不可用：**
+1. 立即停止操作
+2. 提醒用户：「请打开 Obsidian 并确保 CLI 可用」
+3. 等待用户确认后再继续
+
+**常用命令：**
+```bash
+obsidian read file="笔记名"
+obsidian create name="新笔记" content="# 内容"
+obsidian append file="笔记名" content="追加内容"
+obsidian search query="搜索词"
+```
+
+---
+
 ## Git 同步规则
 
 **仓库地址：** https://github.com/fangtang951210/Obsidian.git
