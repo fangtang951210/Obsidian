@@ -1,0 +1,12 @@
+# 排除的目录
+000置顶消息【禁止编辑】/
+
+# 临时文件
+*.tmp
+*.temp
+~$*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
