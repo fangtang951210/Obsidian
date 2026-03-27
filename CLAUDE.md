@@ -125,7 +125,9 @@
 
 **必须使用 Obsidian CLI 操作笔记**，以保护双链结构。
 
-**所有笔记操作（创建、读取、修改、移动）都必须通过 `obsidian` 命令执行。**
+**所有笔记操作（创建、读取、修改、移动）都必须通过 CLI 命令执行。**
+
+**CLI 路径：** `E:\002应用安装\002Obsidian\Obsidian.com`
 
 **如果 CLI 不可用：**
 1. 立即停止操作
@@ -134,10 +136,17 @@
 
 **常用命令：**
 ```bash
-obsidian read file="笔记名"
-obsidian create name="新笔记" content="# 内容"
-obsidian append file="笔记名" content="追加内容"
-obsidian search query="搜索词"
+# 读取笔记
+"E:/002应用安装/002Obsidian/Obsidian.com" read file="笔记名" vault="000个人知识库"
+
+# 创建笔记
+"E:/002应用安装/002Obsidian/Obsidian.com" create name="新笔记" content="# 内容" vault="000个人知识库"
+
+# 追加内容
+"E:/002应用安装/002Obsidian/Obsidian.com" append file="笔记名" content="追加内容" vault="000个人知识库"
+
+# 搜索
+"E:/002应用安装/002Obsidian/Obsidian.com" search query="搜索词" vault="000个人知识库"
 ```
 
 ---

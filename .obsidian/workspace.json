@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Inbox/联网skill.md",
+                "file": "CLI测试笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "联网skill"
+              "title": "CLI测试笔记"
             }
           }
         ]
@@ -180,8 +180,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1fd8a663ddf8dcbc",
+  "active": "e1dbfaf0e6f9e598",
   "lastOpenFiles": [
+    "00Inbox/联网skill.md",
+    "CLI测试笔记.md",
     "obsidian-skills-main/skills/obsidian-cli/SKILL.md",
     "obsidian-skills-main/skills/obsidian-cli",
     "obsidian-skills-main/skills",
@@ -204,7 +206,6 @@
     "obsidian-skills-main/skills/obsidian-bases",
     "obsidian-skills-main/README.md",
     "000置顶消息【禁止编辑】/004密钥密码.md",
-    "00Inbox/联网skill.md",
     "000置顶消息【禁止编辑】/github-recovery-codes.md",
     "CLAUDE.md",
     "000置顶消息【禁止编辑】/02系统相关【重要】/002WSL2系统重安装指南.md",
