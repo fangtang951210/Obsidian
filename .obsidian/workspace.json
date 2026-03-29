@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Inbox/智能体架构对比-OpenClaw与Harness.md",
+                "file": "30Outputs/技术/洞察 · AI 使用经验与学习曲线.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "智能体架构对比-OpenClaw与Harness"
+              "title": "洞察 · AI 使用经验与学习曲线"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00Inbox/智能体架构对比-OpenClaw与Harness.md",
+                "file": "30Outputs/技术/洞察 · AI 使用经验与学习曲线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "智能体架构对比-OpenClaw与Harness 的反向链接列表"
+              "title": "洞察 · AI 使用经验与学习曲线 的反向链接列表"
             }
           },
           {
@@ -183,12 +183,25 @@
   },
   "active": "b7cf0783f9c5c186",
   "lastOpenFiles": [
+    "00Inbox/去AI味写作-配图/12-公众号二维码.png",
+    "00Inbox/去AI味写作-配图/11-写作系统截图.jpg",
+    "00Inbox/去AI味写作-配图/10-上下文工程.jpg",
+    "00Inbox/去AI味写作-配图/09-联网调研截图.jpg",
+    "00Inbox/去AI味写作-配图/08-vault截图.jpg",
+    "00Inbox/去AI味写作-配图/07-nmem截图.jpg",
+    "00Inbox/去AI味写作-配图/06-三路并行采集.jpg",
+    "00Inbox/去AI味写作-配图/05-AI味本质.jpg",
+    "00Inbox/去AI味写作-配图/04-Medium文章截图.jpg",
+    "00Inbox/去AI味写作-配图/03-风格vs内容.jpg",
+    "00Inbox/去AI味写作-配图/02-宝玉文章截图.jpg",
+    "00Inbox/智能体架构对比-OpenClaw与Harness.md",
+    "00Inbox/去AI味写作-配图",
+    "20Notes/tech.智能体架构对比-OpenClaw与Harness.md",
     "30Outputs/技术/洞察 · AI 使用经验与学习曲线.md",
     "30Outputs/技术/工具 · Claude Code Hooks 完全指南.md",
     "30Outputs/技术/工具 · 让 Claude 控制浏览器.md",
     "30Outputs/技术/概念 · Harness Engineering 是什么.md",
     "30Outputs/技术/工具 · claude-context-mode 上下文优化插件.md",
-    "00Inbox/智能体架构对比-OpenClaw与Harness.md",
     "00Inbox/tech.claude-code-hooks.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md",
     "tech.md",
@@ -203,22 +216,18 @@
     "000置顶消息【禁止编辑】/03claude code相关【重要】/使用指南.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/FRP远程claude服务.md",
     "INIT_GUIDE.md",
-    "Pasted image 20260327190027.png",
     "000置顶消息【禁止编辑】/02系统相关【重要】/002WSL2系统重安装指南.md",
     "000置顶消息【禁止编辑】/github-recovery-codes.md",
     "CLAUDE.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/⚠️重要说明.md",
     "CLAUDE.md.tmp.10964.1774589469726",
     "20Notes/sedBcUHbG",
-    "Claude Code.md",
-    "000置顶消息【禁止编辑】/02系统相关【重要】/001windows重安装指南.md",
     "05Temp",
     "obsidian-skills-main/skills/obsidian-cli",
     "obsidian-skills-main/skills",
     "obsidian-skills-main",
     "obsidian-skills-main/skills/obsidian-markdown/references",
     "obsidian-skills-main/skills/obsidian-markdown",
-    "obsidian-skills-main/skills/json-canvas/references",
-    "obsidian-skills-main/skills/obsidian-bases/references"
+    "obsidian-skills-main/skills/json-canvas/references"
   ]
 }
