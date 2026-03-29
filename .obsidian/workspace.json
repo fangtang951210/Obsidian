@@ -181,8 +181,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b7cf0783f9c5c186",
+  "active": "1fd8a663ddf8dcbc",
   "lastOpenFiles": [
+    "00Inbox/tech.claude-code-hooks.md",
     "30Outputs/技术/洞察 · AI 使用经验与学习曲线.md",
     "tech.md",
     "00Inbox/智能体架构对比-OpenClaw与Harness.md",
@@ -211,7 +212,6 @@
     "Claude Code.md",
     "000置顶消息【禁止编辑】/02系统相关【重要】/001windows重安装指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking-Agent接入配置指南.md",
-    "10Learning/联网skill.md",
     "05Temp",
     "obsidian-skills-main/skills/obsidian-cli",
     "obsidian-skills-main/skills",
