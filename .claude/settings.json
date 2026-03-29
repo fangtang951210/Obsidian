@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo \"📊 知识库快照\" && echo \"━━━━━━━━━━━━━━\" && echo \"📁 Inbox: $(ls -1 /e/000个人知识库/00Inbox/*.md 2>/dev/null | wc -l) 个待处理\" && echo \"📚 学习中: $(grep -rl '#进行中' /e/000个人知识库/10Learning/ 2>/dev/null | wc -l) 篇\" && for f in $(grep -rl '#进行中' /e/000个人知识库/10Learning/ 2>/dev/null | head -5); do echo \"  - $(basename \"$f\" .md)\"; done && echo \"\" && echo \"🕐 最近提交:\" && git -C /e/000个人知识库 log --oneline -3 && echo \"\" && echo \"⚠️ 以上仅为状态提醒，请勿主动读取或处理，等待用户指示\""
+            "command": "echo \"📊 知识库快照\" && echo \"━━━━━━━━━━━━━━\" && for dir in 00Inbox 05Temp 10Learning 20Notes 30Outputs; do echo \"$dir: $(ls -1 /e/000个人知识库/$dir/*.md 2>/dev/null | wc -l) 篇\"; done && echo \"\" && echo \"📝 正在学习:\" && for f in $(grep -rl '#进行中' /e/000个人知识库/ --include=\"*.md\" 2>/dev/null | grep -v CLAUDE.md | head -5); do echo \"  - $(basename \"$f\" .md)\"; done && echo \"\" && echo \"⚠️ 以上仅为状态提醒，请勿主动读取或处理，等待用户指示\""
           }
         ]
       }
