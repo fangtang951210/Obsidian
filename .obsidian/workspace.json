@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Inbox/去AI味写作的两层逻辑.md",
+                "file": "00Inbox/去AI味稳定输出公众号文章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "去AI味写作的两层逻辑"
+              "title": "去AI味稳定输出公众号文章"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00Inbox/去AI味写作的两层逻辑.md",
+                "file": "00Inbox/去AI味稳定输出公众号文章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "去AI味写作的两层逻辑 的反向链接列表"
+              "title": "去AI味稳定输出公众号文章 的反向链接列表"
             }
           },
           {
@@ -183,8 +183,9 @@
   },
   "active": "1fd8a663ddf8dcbc",
   "lastOpenFiles": [
+    "10Learning/tech.多平台视频文案采集.md",
     "30Outputs/技术/洞察 · AI 使用经验与学习曲线.md",
-    "00Inbox/去AI味写作的两层逻辑.md",
+    "00Inbox/去AI味稳定输出公众号文章.md",
     "CLAUDE.md",
     "20Notes/tech.智能体架构对比-OpenClaw与Harness.md",
     "05Temp/学员打卡小程序.md",
@@ -214,7 +215,6 @@
     "30Outputs/技术/工具 · claude-context-mode 上下文优化插件.md",
     "00Inbox/tech.claude-code-hooks.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md",
-    "tech.md",
     "智能体架构对比-OpenClaw与Harness.md",
     "00Inbox/claude-context-mode - Claude Code 上下文优化插件.md",
     "00Inbox/Anthropic报告-学习曲线.md",
