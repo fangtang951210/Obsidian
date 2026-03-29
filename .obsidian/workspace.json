@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d5eadc5cb4e237fd",
+  "active": "1fd8a663ddf8dcbc",
   "lastOpenFiles": [
     "30Outputs/技术/洞察 · AI 使用经验与学习曲线.md",
     "00Inbox/去AI味写作的两层逻辑.md",
