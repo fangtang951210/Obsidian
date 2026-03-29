@@ -1,5 +1,16 @@
 {
   "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo \"📊 知识库快照\" && echo \"━━━━━━━━━━━━━━\" && echo \"📁 Inbox: $(ls -1 /e/000个人知识库/00Inbox/*.md 2>/dev/null | wc -l) 个待处理\" && echo \"📚 学习中: $(grep -rl '#进行中' /e/000个人知识库/10Learning/ 2>/dev/null | wc -l) 篇\" && echo \"\" && echo \"🕐 最近提交:\" && git -C /e/000个人知识库 log --oneline -3"
+          }
+        ]
+      }
+    ],
     "PostToolUse": [
       {
         "matcher": "Write|Edit",
