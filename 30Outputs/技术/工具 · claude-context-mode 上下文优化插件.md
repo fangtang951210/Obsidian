@@ -156,3 +156,10 @@ README 和 BENCHMARK 里给了多个真实场景，方向很一致：
 - 微信公众号：Git Trend
 - 原文链接：https://mp.weixin.qq.com/s/mKzE06XqhRYrDQEw-gweqg
 - GitHub 仓库：https://github.com/mksglu/claude-context-mode
+
+
+
+---
+## 相关笔记
+
+- [[工具 · Claude Code Hooks 完全指南]] — Hooks 可配置自动上下文管理

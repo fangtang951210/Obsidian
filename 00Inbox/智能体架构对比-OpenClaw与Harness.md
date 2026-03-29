@@ -152,3 +152,11 @@ Harness  = 「AI 受控辅助」= 请个助手，你来指挥
 
 - 微信公众号：苏哲管理咨询
 - 原文链接：https://mp.weixin.qq.com/s/wsOziXiKOWUYEShavJOQRA
+
+
+
+---
+## 相关笔记
+
+- [[概念 · Harness Engineering 是什么]] — Harness Engineering 深度解读
+- [[洞察 · AI 使用经验与学习曲线]] — AI 使用经验分析

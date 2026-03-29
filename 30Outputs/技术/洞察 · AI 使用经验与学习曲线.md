@@ -174,3 +174,10 @@
 
 - [Anthropic Economic Index report: Learning curves](https://www.anthropic.com/research/economic-index-march-2026-report)
 - [数据下载](https://www.anthropic.com/economic-index)
+
+
+---
+## 相关笔记
+
+- [[概念 · Harness Engineering 是什么]] — 用好 AI 的方法论
+- [[智能体架构对比-OpenClaw与Harness]] — 智能体架构对比

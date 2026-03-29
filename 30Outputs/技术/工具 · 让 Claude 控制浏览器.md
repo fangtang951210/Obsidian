@@ -118,3 +118,10 @@ web-access 会根据场景**自动选择**最合适的工具。
 > [!quote] Skill = 哲学 + 技术事实，不是操作手册
 >
 > 不要替 AI 推理，而是讲清楚 tradeoff 让 AI 自己选择。
+
+
+
+---
+## 相关笔记
+
+- [[工具 · Claude Code Hooks 完全指南]] — Hooks 自动化配置

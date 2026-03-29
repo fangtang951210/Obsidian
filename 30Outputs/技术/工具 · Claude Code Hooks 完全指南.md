@@ -279,3 +279,11 @@ https://docs.anthropic.com/en/docs/claude-code/hooks
 ---
 
 > 写于 2026-03-29
+
+
+
+---
+## 相关笔记
+
+- [[工具 · 让 Claude 控制浏览器]] — 浏览器自动化能力
+- [[工具 · claude-context-mode 上下文优化插件]] — 上下文优化策略
