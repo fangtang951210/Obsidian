@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "972c7edcdc1da4d3",
+        "id": "afb9def67865ec4d",
         "type": "tabs",
         "children": [
           {
-            "id": "e1dbfaf0e6f9e598",
+            "id": "b7cf0783f9c5c186",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e1dbfaf0e6f9e598",
+  "active": "b7cf0783f9c5c186",
   "lastOpenFiles": [
-    "05Temp/GitHub本周热榜_20260328.md",
+    "00Inbox/claude-context-mode - Claude Code 上下文优化插件.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md",
+    "05Temp/GitHub本周热榜_20260328.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/README.md",
     "05Temp/未命名.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/使用指南.md",
@@ -217,7 +218,6 @@
     "obsidian-skills-main/skills/obsidian-markdown/SKILL.md",
     "obsidian-skills-main/skills/obsidian-markdown",
     "obsidian-skills-main/skills/json-canvas/references/EXAMPLES.md",
-    "obsidian-skills-main/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "obsidian-skills-main/skills/json-canvas/references",
     "obsidian-skills-main/skills/obsidian-bases/references"
   ]
