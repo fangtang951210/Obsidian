@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
+                "file": "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "claude code 命令"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CLAUDE 的反向链接列表"
+              "title": "claude code 命令 的反向链接列表"
             }
           },
           {
@@ -183,6 +183,18 @@
   },
   "active": "e1dbfaf0e6f9e598",
   "lastOpenFiles": [
+    "05Temp/GitHub本周热榜_20260328.md",
+    "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md",
+    "000置顶消息【禁止编辑】/03claude code相关【重要】/README.md",
+    "05Temp/未命名.md",
+    "000置顶消息【禁止编辑】/03claude code相关【重要】/使用指南.md",
+    "000置顶消息【禁止编辑】/03claude code相关【重要】/FRP远程claude服务.md",
+    "INIT_GUIDE.md",
+    "05Temp/学员打卡小程序.md",
+    "Pasted image 20260327190027.png",
+    "000置顶消息【禁止编辑】/02系统相关【重要】/002WSL2系统重安装指南.md",
+    "000置顶消息【禁止编辑】/github-recovery-codes.md",
+    "00Inbox/Harness Engineering 是什么.md",
     "30Outputs/技术/工具 · 让 Claude 控制浏览器.md",
     "CLAUDE.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/⚠️重要说明.md",
@@ -191,7 +203,6 @@
     "Claude Code.md",
     "000置顶消息【禁止编辑】/02系统相关【重要】/001windows重安装指南.md",
     "000置顶消息【禁止编辑】/01服务器相关【重要】/OpenViking-Agent接入配置指南.md",
-    "000置顶消息【禁止编辑】/02系统相关【重要】/002WSL2系统重安装指南.md",
     "10Learning/联网skill.md",
     "CLI测试笔记.md",
     "05Temp",
@@ -207,16 +218,7 @@
     "obsidian-skills-main/skills/obsidian-markdown",
     "obsidian-skills-main/skills/json-canvas/references/EXAMPLES.md",
     "obsidian-skills-main/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "obsidian-skills-main/skills/defuddle/SKILL.md",
-    "obsidian-skills-main/skills/json-canvas/SKILL.md",
     "obsidian-skills-main/skills/json-canvas/references",
-    "obsidian-skills-main/skills/obsidian-bases/references",
-    "obsidian-skills-main/skills/obsidian-bases/SKILL.md",
-    "obsidian-skills-main/README.md",
-    "000置顶消息【禁止编辑】/004密钥密码.md",
-    "000置顶消息【禁止编辑】/github-recovery-codes.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/项目模板/CLAUDE.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/FRP远程claude服务.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/claude code 命令.md"
+    "obsidian-skills-main/skills/obsidian-bases/references"
   ]
 }
