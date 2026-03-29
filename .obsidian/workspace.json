@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afb9def67865ec4d",
+        "id": "2324acd217a7af2c",
         "type": "tabs",
         "children": [
           {
-            "id": "b7cf0783f9c5c186",
+            "id": "d5eadc5cb4e237fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30Outputs/项目/项目 · AI 智能体架构研究.md",
+                "file": "00Inbox/去AI味写作的两层逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目 · AI 智能体架构研究"
+              "title": "去AI味写作的两层逻辑"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#进行中",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30Outputs/项目/项目 · AI 智能体架构研究.md",
+                "file": "00Inbox/去AI味写作的两层逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "项目 · AI 智能体架构研究 的反向链接列表"
+              "title": "去AI味写作的两层逻辑 的反向链接列表"
             }
           },
           {
@@ -181,14 +182,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b7cf0783f9c5c186",
+  "active": "d5eadc5cb4e237fd",
   "lastOpenFiles": [
-    "30Outputs/项目/项目 · Claude Code 工具链.md",
-    "30Outputs/项目/项目 · AI 智能体架构研究.md",
-    "项目 · Claude Code 工具链.md",
-    "项目 · AI 智能体架构研究.md",
     "30Outputs/技术/洞察 · AI 使用经验与学习曲线.md",
     "00Inbox/去AI味写作的两层逻辑.md",
+    "CLAUDE.md",
+    "20Notes/tech.智能体架构对比-OpenClaw与Harness.md",
+    "05Temp/学员打卡小程序.md",
+    "05Temp/GitHub本周热榜_20260328.md",
+    "05Temp/未命名.md",
+    "000置顶消息【禁止编辑】/03claude code相关【重要】/FRP远程claude服务.md",
+    "30Outputs/项目/项目 · AI 智能体架构研究.md",
+    "30Outputs/项目/项目 · Claude Code 工具链.md",
+    "项目 · Claude Code 工具链.md",
+    "项目 · AI 智能体架构研究.md",
     "去AI味写作的两层逻辑.md",
     "00Inbox/去AI味写作-配图/12-公众号二维码.png",
     "00Inbox/去AI味写作-配图/11-写作系统截图.jpg",
@@ -202,7 +209,6 @@
     "00Inbox/去AI味写作-配图/03-风格vs内容.jpg",
     "00Inbox/智能体架构对比-OpenClaw与Harness.md",
     "00Inbox/去AI味写作-配图",
-    "20Notes/tech.智能体架构对比-OpenClaw与Harness.md",
     "30Outputs/技术/工具 · Claude Code Hooks 完全指南.md",
     "30Outputs/技术/工具 · 让 Claude 控制浏览器.md",
     "30Outputs/技术/概念 · Harness Engineering 是什么.md",
@@ -214,12 +220,7 @@
     "00Inbox/claude-context-mode - Claude Code 上下文优化插件.md",
     "00Inbox/Anthropic报告-学习曲线.md",
     "00Inbox/Harness Engineering 是什么.md",
-    "05Temp/学员打卡小程序.md",
-    "05Temp/GitHub本周热榜_20260328.md",
     "000置顶消息【禁止编辑】/03claude code相关【重要】/README.md",
-    "05Temp/未命名.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/使用指南.md",
-    "000置顶消息【禁止编辑】/03claude code相关【重要】/FRP远程claude服务.md",
     "CLAUDE.md.tmp.10964.1774589469726",
     "20Notes/sedBcUHbG",
     "05Temp",
